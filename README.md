@@ -5,7 +5,7 @@
 - [aquí puedes revisarlo](https://github.com/rigozdev)
 
 ```html
-<h2>Soy un </h2>
+<h2>Soy un h2 </h2>
 ```
 
 # Otra cosa
